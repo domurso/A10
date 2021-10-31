@@ -18,4 +18,6 @@ h2{
 footer{
 	text-align: center;
 }
-
+a:hover,a:focus{
+	font-style:italic;
+}
