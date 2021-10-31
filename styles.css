@@ -1,8 +1,12 @@
 h2{
 	color: #800000;
+	size: 170%;
+
+
+}
+h3{
+	size:130%;
+	font-style: italic;
 	text-indent: 30px;
-	size: 130%;
-
-
 }
 
